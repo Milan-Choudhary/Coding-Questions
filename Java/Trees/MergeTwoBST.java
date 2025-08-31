@@ -1,6 +1,6 @@
+package Trees;
 import java.util.ArrayList;
 
-// Remove the import for org.w3c.dom.Node, and define your own Node class below.
 
 public class MergeTwoBST{
     public static void main(String[] args){
