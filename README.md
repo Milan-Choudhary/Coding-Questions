@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
