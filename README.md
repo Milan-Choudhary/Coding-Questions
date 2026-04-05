@@ -39,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
