@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0657-robot-return-to-origin) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
