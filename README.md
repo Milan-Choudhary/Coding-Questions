@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2413-smallest-even-multiple) |
+## Sorting
+|  |
+| ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
 <!---LeetCode Topics End-->
