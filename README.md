@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Simulation
 |  |
 | ------- |
