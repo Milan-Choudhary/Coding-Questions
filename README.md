@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2413-smallest-even-multiple) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
