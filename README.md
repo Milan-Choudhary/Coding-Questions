@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
@@ -102,9 +103,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0414-third-maximum-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
