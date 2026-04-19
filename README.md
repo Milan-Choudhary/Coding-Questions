@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
