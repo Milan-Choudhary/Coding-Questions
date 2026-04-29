@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0414-third-maximum-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Union-Find
 |  |
