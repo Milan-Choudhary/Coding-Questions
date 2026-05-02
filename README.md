@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
+| [0788-rotated-digits](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
+| [0788-rotated-digits](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0788-rotated-digits) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2413-smallest-even-multiple](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2413-smallest-even-multiple) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
