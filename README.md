@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0504-base-7) |
 | [0788-rotated-digits](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
