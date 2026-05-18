@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0504-base-7) |
