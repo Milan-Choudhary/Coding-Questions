@@ -98,23 +98,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Math
 |  |
 | ------- |
