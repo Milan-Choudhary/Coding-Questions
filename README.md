@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1871-jump-game-vii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
