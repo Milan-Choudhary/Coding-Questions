@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1732-find-the-highest-altitude](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0238-product-of-array-except-self) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
