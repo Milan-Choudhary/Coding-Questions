@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
