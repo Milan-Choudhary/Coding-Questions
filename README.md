@@ -117,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0207-course-schedule) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0207-course-schedule) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
