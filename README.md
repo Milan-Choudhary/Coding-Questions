@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2413-smallest-even-multiple) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2413-smallest-even-multiple) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2761-prime-pairs-with-target-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
