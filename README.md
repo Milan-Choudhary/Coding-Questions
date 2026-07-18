@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2413-smallest-even-multiple) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2413-smallest-even-multiple) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
