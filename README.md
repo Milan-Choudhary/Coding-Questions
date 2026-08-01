@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0788-rotated-digits) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0504-base-7) |
 | [0788-rotated-digits](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -379,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
