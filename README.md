@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0518-coin-change-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1732-find-the-highest-altitude) |
