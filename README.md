@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0877-stone-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1288-remove-covered-intervals) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
