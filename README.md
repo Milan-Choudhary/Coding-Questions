@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0409-longest-palindrome) |
