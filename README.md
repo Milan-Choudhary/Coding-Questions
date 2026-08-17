@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1732-find-the-highest-altitude) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
