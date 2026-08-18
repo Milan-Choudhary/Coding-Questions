@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0877-stone-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1260-shift-2d-grid) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0504-base-7) |
 | [0788-rotated-digits](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0414-third-maximum-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Recursion
@@ -431,4 +436,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0877-stone-game) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
