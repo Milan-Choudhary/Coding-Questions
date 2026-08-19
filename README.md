@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
