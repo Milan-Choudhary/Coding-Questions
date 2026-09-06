@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0205-isomorphic-strings) |
