@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0504-base-7) |
 | [0788-rotated-digits](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
