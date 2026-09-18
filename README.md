@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0409-longest-palindrome) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0414-third-maximum-number) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -518,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
