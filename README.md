@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0155-min-stack) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
