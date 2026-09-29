@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0056-merge-intervals) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -563,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
