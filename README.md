@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String Matching
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
 |  |
 | ------- |
