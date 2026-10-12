@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1288-remove-covered-intervals) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0657-robot-return-to-origin) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0200-number-of-islands) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
