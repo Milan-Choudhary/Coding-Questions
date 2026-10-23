@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0410-split-array-largest-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0279-perfect-squares](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0504-base-7) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -628,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0052-n-queens-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
