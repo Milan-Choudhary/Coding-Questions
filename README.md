@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0051-n-queens) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0229-majority-element-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/0200-number-of-islands) |
