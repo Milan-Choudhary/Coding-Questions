@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2811-check-if-it-is-possible-to-split-array) |
+| [3665-twisted-mirror-path-count](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String Matching
 |  |
