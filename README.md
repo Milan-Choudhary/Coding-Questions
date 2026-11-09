@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Milan-Choudhary/Coding-Questions/tree/master/3904-smallest-stable-index-ii) |
